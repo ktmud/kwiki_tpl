@@ -1,6 +1,6 @@
-Çğ³ÙµÄÎ¬»ù
+ä¸˜è¿Ÿçš„ç»´åŸº
 ----------
-ÇëÍ¨¹ı http://wiki.ktmud.com ·ÃÎÊ¡£
+è¯·é€šè¿‡ http://wiki.ktmud.com è®¿é—®ã€‚
 
-ÓÃ·¨Çë²Î¼û£º
+ç”¨æ³•è¯·å‚è§ï¼š
     :h vimwiki-option-html_header
